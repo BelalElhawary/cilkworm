@@ -1,0 +1,15 @@
+D:\InterpretedSilkWorm\cilk-worm\api\cs\bin\Debug\net7.0\cs.exe
+D:\InterpretedSilkWorm\cilk-worm\api\cs\bin\Debug\net7.0\cs.deps.json
+D:\InterpretedSilkWorm\cilk-worm\api\cs\bin\Debug\net7.0\cs.runtimeconfig.json
+D:\InterpretedSilkWorm\cilk-worm\api\cs\bin\Debug\net7.0\cs.dll
+D:\InterpretedSilkWorm\cilk-worm\api\cs\bin\Debug\net7.0\cs.pdb
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.csproj.AssemblyReference.cache
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.AssemblyInfoInputs.cache
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.AssemblyInfo.cs
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.csproj.CoreCompileInputs.cache
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.dll
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\refint\cs.dll
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.pdb
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\cs.genruntimeconfig.cache
+D:\InterpretedSilkWorm\cilk-worm\api\cs\obj\Debug\net7.0\ref\cs.dll
